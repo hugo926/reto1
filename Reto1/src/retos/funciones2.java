@@ -14,7 +14,7 @@ public static int multiplicar(int numero1,int numero2) {
 }
 public static int dividir(int numero1,int numero2) {
 	int resultado=0;
-	if(numero2>0 && numero1>0)
+	if(numero2>0)
 		 resultado= numero1/numero2;
 	return resultado;
 }
