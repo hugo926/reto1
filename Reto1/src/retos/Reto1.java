@@ -106,7 +106,7 @@ public class Reto1 {
 
 			default:
 			}
-			
+			//ñ
 		} while (n != 0);
 		
 		sc.close();
