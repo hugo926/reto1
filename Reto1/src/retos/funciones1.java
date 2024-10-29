@@ -21,4 +21,13 @@ public class funciones1 {
 		return num1-num2;
 	}
 	
+	public static boolean esPar(int num) 
+	
+	{ 
+		if(num%2==0) {
+			return true;
+		}
+		return false;
+	}
+	
 }
