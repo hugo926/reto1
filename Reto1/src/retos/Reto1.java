@@ -70,22 +70,27 @@ public class Reto1 {
 
 			case 2:
 				resultado = funciones1.resta(num1, num2);
+				System.out.println(resultado);
 				break;
 
 			case 3:
 				resultado = funciones2.multiplicar(num1, num2);
+				System.out.println(resultado);
 				break;
 
 			case 4:
 				resultado = funciones2.dividir(num1, num2);
+				System.out.println(resultado);
 				break;
 
 			case 5:
 				resultadoPost5 = funciones1.esPar(num);
+				System.out.println(resultadoPost5);
 				break;
 
 			case 6:
 				resultadoPost5 = funciones1.esImpar(num);
+				System.out.println(resultadoPost5);
 				break;
 
 			case 7:
